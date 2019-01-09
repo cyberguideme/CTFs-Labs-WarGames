@@ -31,10 +31,17 @@
 | [Game of Hacks](http://www.gameofhacks.com/) | This Game was Designed to Test Your Application Hacking Skills |
 | [Hacker Test](http://www.hackertest.net/) | Your Own Online Hacker Simulation. |
 | [n00bs CTF Labs](http://ctf.infosecinstitute.com/index.php) | A Web Application that Hosts 15 mini Capture the Flag (CTF) Challenges Intended for Beginners |
+| [Crypto Club](https://www.cryptoclub.org/) | Crack Ciphers, Discover Secrets, and Improve Your Math Skills |
 | [The Cryptopals](https://cryptopals.com/) | Sets of Crypto Challenges |
-
+| [Try to Decrypt](https://www.trytodecrypt.com/index.php) | Find Some Encrypted Texts in Different Levels of Difficulty |
+| [Electrica](http://www.caesum.com/game/) | The Puzzle Challange |
 | [Pwn Adventure](https://pwnadventure.com/) | A Game is Intentionally Vulnerable to all Kinds of Silly Hacks |
 | [Smash the Stack](http://smashthestack.org/wargames.html) | Wargaming Network |
 | [Stypr](https://chall.stypr.com/) | Stereotyped Challenges |
 | [Under the Wire](http://www.underthewire.tech/wargames.htm) | Wargames |
+| [PentesterLab](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at) | Execises |
+| [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) | Metasploitable is an Intentionally Vulnerable Linux Virtual Machine |
 | [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
+| [Nmap ScanMe](http://scanme.nmap.org/) | Learn about Nmap |
+| [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project) | Designed to Teach Web Application Security Lessons |
+| [Praetorian](https://www.praetorian.com/challenges/pwnable) | Exploit Your Way to the Secret Flag and Get Hired |
