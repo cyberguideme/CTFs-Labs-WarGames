@@ -1,6 +1,7 @@
-### <a name="training"></a>CTFs, Labs, Hacking Games
+### <a name="training"></a>CTFs, Labs, WarGames
 | Websites | Description | 
 | ------ | ------ |
+| [Awesome CTF](https://apsdehal.in/awesome-ctf/) | A Curated List of CTF Frameworks, Libraries, Resources and Softwares |
 | [HackTheBox](https://hackthebox.eu) | Pen-testing Labs |
 | [VulnHub](https://www.vulnhub.com/) | Gain Practical 'hands-on' Experience in Digital Security, Computer Software & Network Administration |
 | [Hacking-LAB](https://www.hacking-lab.com/) | Online Ethical Hacking, Computer Network and Security Challenge Platform |
