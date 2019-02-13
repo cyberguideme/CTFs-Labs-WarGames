@@ -8,7 +8,7 @@
 | [OtherWire](http://overthewire.org/wargames/) | Learn and Practice Security Concepts in the Form of Fun-filled Games |
 | [CTF Me](https://ctfs.me/) | Learn CTF |
 | [CTF Time](https://ctftime.org/) | CTF Archive |
-| [CTF365](https://ctf365.com/) | CTF Praticing |
+| [CTF365](https://ctf365.com/) | CTF Practicing |
 | [CTF Learn](https://ctflearn.com/) | Hackers in Improving Your CTF Skills |
 | [CTF 101](https://ctf101.org/) | Computer Security Competiton |
 | [Root Me](https://www.root-me.org/?lang=en) | Challange Your Hacking Skills |
